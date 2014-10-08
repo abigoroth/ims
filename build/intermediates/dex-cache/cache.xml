@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/akob/Job/voip/2.0/imsdroid/build/intermediates/pre-dexed/debug/simple-xml-2.3.4-e6afd1c454a3c21ac320078396aefae2c157eb10.jar"
+        jar="/Users/akob/Job/voip/2.0/imsdroid/build/intermediates/exploded-aar/2.0/android-ngn-stack/unspecified/libs/simple-xml-2.3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f45c6f5dc9b45cd8de3554e75f6d4dda9b99ca28"/>
+    <item
+        dex="/Users/akob/Job/voip/2.0/imsdroid/build/intermediates/pre-dexed/debug/classes-d9fd813dfcd453a71d1d94e3ca24503abecc8994.jar"
+        jar="/Users/akob/Job/voip/2.0/imsdroid/build/intermediates/exploded-aar/2.0/android-ngn-stack/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="295bb05125bb1ac415a2e8fbd770531447443654"/>
+
+</pre-dex-items>

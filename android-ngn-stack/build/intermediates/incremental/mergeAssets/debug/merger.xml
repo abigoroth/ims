@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/build-types/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/intermediates/bundles/debug/res" >
+            <file
+                name="icon"
+                path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/intermediates/bundles/debug/res/values/values.xml"
+                qualifiers="" >
+                <string name="doubango_revision" >687
+                </string>
+                <string name="app_name" >android-rcs-stack
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/src/androidTest/res" />
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/generated/res/rs/test/debug" />
+        <source path="/Users/akob/Job/voip/2.0/android-ngn-stack/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>
