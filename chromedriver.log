@@ -1,0 +1,18 @@
+[0.001][INFO]:      ChromeDriver 26.0.1383.0 /usr/bin/chromedriver
+[0.214][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.215][INFO]:      Using named testing interface
+[30.305][SEVERE]:   Failed to initialize connection

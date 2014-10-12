@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/akob/Job/voip/2.0/imsdroid/build/intermediates/exploded-aar/2.0/android-ngn-stack/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/akob/Job/voip/2.0/imsdroid/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/akob/Job/voip/2.0/imsdroid/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
